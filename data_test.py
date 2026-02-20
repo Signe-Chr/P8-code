@@ -1,5 +1,6 @@
 import scipy.io
 mat = scipy.io.loadmat('TestData/S02_session_1_block_8_processed.mat') 
+#ny ændring
 
 #Laver ændring
 # Data structure:
