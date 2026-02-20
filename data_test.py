@@ -1,6 +1,7 @@
 import scipy.io
 mat = scipy.io.loadmat('TestData/S02_session_1_block_8_processed.mat') 
 
+#Laver ændring
 # Data structure:
 # dict_keys(['__header__', '__version__', '__globals__', 'cfg'])
 # 'cfg': 
